@@ -1,0 +1,9 @@
+<resources>
+    <style name="Theme.SKMusicPro" parent="Theme.Material3.Dark.NoActionBar">
+        <item name="colorPrimary">@color/gold</item>
+        <item name="colorSecondary">@color/orange</item>
+        <item name="android:windowBackground">@color/black</item>
+        <item name="android:statusBarColor">@color/black</item>
+        <item name="android:navigationBarColor">@color/black</item>
+    </style>
+</resources>
